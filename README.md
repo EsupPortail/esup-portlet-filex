@@ -1,4 +1,4 @@
-Portlet d'accroche pour FileX - https://github.com/EsupPortail/filex
+Portlet d'accroche pour FileX
 ============================
 
 esup-portlet-filex est une portlet JSR286 qui fonctionne avec la version FileX ESUP disponible sur github :
